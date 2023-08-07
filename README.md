@@ -2,4 +2,4 @@
 federated learning for image classification
 
 
--[LEAF](https://leaf.cmu.edu/)
+- [LEAF](https://leaf.cmu.edu/)
